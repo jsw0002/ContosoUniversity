@@ -52,3 +52,5 @@ C:\Users\Jordan\Desktop\1150\ContosoUniversity\ContosoUniversity\obj\Release\Con
 C:\Users\Jordan\Desktop\1150\ContosoUniversity\ContosoUniversity\obj\Release\ContosoUniversity.Migrations.ColumnFirstName.resources
 C:\Users\Jordan\Desktop\1150\ContosoUniversity\ContosoUniversity\obj\Release\ContosoUniversity.Migrations.ComplexDataModel.resources
 C:\Users\Jordan\Desktop\1150\ContosoUniversity\ContosoUniversity\obj\Release\ContosoUniversity.Migrations.DepartmentSP.resources
+C:\Users\Jordan\Desktop\1150\ContosoUniversity\ContosoUniversity\obj\Release\ContosoUniversity.Migrations.RowVersion.resources
+C:\Users\Jordan\Desktop\1150\ContosoUniversity\ContosoUniversity\obj\Release\ContosoUniversity.Migrations.Inheritance.resources
