@@ -48,3 +48,7 @@ C:\Users\Jordan\Desktop\1150\ContosoUniversity\ContosoUniversity\obj\Release\Con
 C:\Users\Jordan\Desktop\1150\ContosoUniversity\ContosoUniversity\obj\Release\ContosoUniversity.dll
 C:\Users\Jordan\Desktop\1150\ContosoUniversity\ContosoUniversity\obj\Release\ContosoUniversity.pdb
 C:\Users\Jordan\Desktop\1150\ContosoUniversity\ContosoUniversity\obj\Release\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\1150\ContosoUniversity\ContosoUniversity\obj\Release\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+C:\Users\Jordan\Desktop\1150\ContosoUniversity\ContosoUniversity\obj\Release\ContosoUniversity.Migrations.ColumnFirstName.resources
+C:\Users\Jordan\Desktop\1150\ContosoUniversity\ContosoUniversity\obj\Release\ContosoUniversity.Migrations.ComplexDataModel.resources
+C:\Users\Jordan\Desktop\1150\ContosoUniversity\ContosoUniversity\obj\Release\ContosoUniversity.Migrations.DepartmentSP.resources
