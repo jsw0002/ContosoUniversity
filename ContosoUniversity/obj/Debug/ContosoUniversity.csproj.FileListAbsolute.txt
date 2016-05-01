@@ -48,3 +48,6 @@ C:\Users\Jordan\Desktop\1150\ContosoUniversity\ContosoUniversity\bin\PagedList.x
 C:\Users\Jordan\Desktop\1150\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
 C:\Users\Jordan\Desktop\1150\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
 C:\Users\Jordan\Desktop\1150\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+C:\Users\Jordan\Desktop\1150\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+C:\Users\Jordan\Desktop\1150\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
+C:\Users\Jordan\Desktop\1150\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
